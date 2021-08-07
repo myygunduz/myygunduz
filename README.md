@@ -3,6 +3,6 @@
 
 <h1 align='center'> Hi! :wave: </h1>
 
-<p align='center'>![GitHub followers](https://img.shields.io/github/followers/myygunduz?style=social) </p>
+![GitHub followers](https://img.shields.io/github/followers/myygunduz?style=social)
 
 
