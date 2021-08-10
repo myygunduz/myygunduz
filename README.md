@@ -1,4 +1,4 @@
-[![Social banner for myygunduz](https://github.com/myygunduz/myygunduz/blob/main/ReadMe.png)](https://myygyazilim.com)
+[![Social banner for myygunduz](https://github.com/myygunduz/myygunduz/blob/main/ReadMe.gif)](https://myygyazilim.com)
 
 
 <h1 align='center'> Hi! :wave: </h1>
