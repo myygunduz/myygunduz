@@ -23,8 +23,8 @@
 </p>
 
 <p align=center>  
-  <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api?username=myygunduz&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e" height=175></a>
-    <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=myygunduz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e" height=175></a>
+  <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api?username=myygunduz&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e" height=150></a>
+    <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=myygunduz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e" height=150></a>
 </p>
 
 <h2 align='right'>Programming Languages I Know</h2>
