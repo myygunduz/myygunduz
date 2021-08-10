@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/myygunduz"><img src="https://img.shields.io/github/followers/myygunduz?style=social"></a>
+<a href="https://github.com/myygunduz?tab=followers"><img src="https://img.shields.io/github/followers/myygunduz?style=social"></a>
 </p>
 
 <p align=center>  
