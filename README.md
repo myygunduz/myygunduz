@@ -30,5 +30,6 @@
 <h2 align='right'>Programming Languages I Know</h2>
 <p align="right"> 
   <a href='https://www.python.org/' ><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
+  <a href='https://doc.qt.io/qtforpython/' ><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/> </a> 
 </p>
 <hr>
