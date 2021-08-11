@@ -16,7 +16,7 @@
 <h2 align='center'> My Github Stats</h2>
 <p align=center>
   <a href="https://github.com/myygunduz">
-    <img src="https://badges.pufler.dev/visits/myygunduz/Terabyte17?style=flat-square&color=fe422e&logo=github">
+    <img src="https://badges.pufler.dev/visits/myygunduz/myygunduz?style=flat-square&color=fe422e&logo=github">
   </a>
   <a href="https://github.com/myygunduz?tab=repositories">
     <img src="https://badges.pufler.dev/repos/myygunduz?style=flat-square&color=fe422e&logo=github">
