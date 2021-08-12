@@ -7,10 +7,18 @@
 <h2 align='left'> My Social Media</h2>
 <p align="left"><a href="https://twitter.com/myygunduz" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/myygunduz/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/myygunduz/" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href='https://github.com/myygunduz' ><img  src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
-<h2 align='right'>Programming Languages I Know</h2>
-<p align="right"> 
+<h2 align='center'>Programming Languages I Know</h2>
+<p align="center"> 
   <a href='https://www.python.org/' ><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
   <a href='https://doc.qt.io/qtforpython/' ><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/> </a> 
+</p>
+
+<h2 align='right'>Programs I Use </h2>
+<p align="right"> 
+  <a href='https://code.visualstudio.com/' ><img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </a> 
+  <a href='https://atom.io/' ><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/> </a> 
+  <a href='https://discord.com/' ><img src="https://img.shields.io/badge/myygunduz-5693-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> </a> 
+  <a href='https://open.spotify.com/user/muzfrkerw94g74itrb7fujiid?si=39b9a523ff084533' ><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/> </a> 
 </p>
 
 <h2 align='center'> My Github Stats</h2>
