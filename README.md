@@ -38,11 +38,11 @@
 <a href="https://github.com/myygunduz?tab=followers"><img src="https://img.shields.io/github/followers/myygunduz?style=social"></a>
 </p>
 
-<p align=left>  
+<p align=center>  
   <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api?username=myygunduz&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e" width=500></a></p>
 <p align=center>   <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=myygunduz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e"></a>
 </p>
-<p align=right>  
+<p align=center>  
   <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=myygunduz&background=111111&text_color=ffffff&fire=fe422e&sideNums=fe422e&border=fe422e&dates=ffffff&currStreakNum=fe422e&ring=fe422e&stroke=fe422e&currStreakLabel=fe422e&sideLabels=fe422e" width=500></a></p>
  
  <p align=center>   <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=myygunduz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e"></a>
