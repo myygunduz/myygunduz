@@ -1,4 +1,4 @@
-[![Social banner for myygunduz](https://github.com/myygunduz/myygunduz/blob/main/ReadMe.gif)](https://myygyazilim.com)
+[![Social banner for myygunduz](https://github.com/myygunduz/myygunduz/blob/main/assets/ReadMe.gif)](https://myygyazilim.com)
 <hr>
 
 <h1 align='center'> Hi! :wave: My Name is Mücahit Gündüz</h1>
@@ -53,6 +53,9 @@
 <details>
   <summary>Some of My Blender Works</summary>
   <p align='center'>
-    <img src="https://github.com/myygunduz/myygunduz/blob/main/blender%20work.gif">
+    <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/blenderWorkOne.gif">
+  </p>
+  <p align='center'>
+    <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/blenderWorkTwo.png">
   </p>
 </details>
