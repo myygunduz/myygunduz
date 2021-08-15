@@ -50,12 +50,26 @@
 
 <hr>
 
-<details>
+<details align='center'>
   <summary>Some of My Blender Works</summary>
-  <p align='center'>
-    <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/gifs/blenderWorkOne.gif">
-  </p>
-  <p align='center'>
-    <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkOne.png">
-  </p>
+  <p></p>
+  <details>
+    <summary>Gifs</summary>
+      <p align='center'>
+        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/gifs/blenderWorkOne.gif">
+      </p>
+  </details>
+  <details>
+    <summary>Images</summary>
+      <p align='center'>
+        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkOne.png">
+      </p>
+      <p align='center'>
+        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkTwo.png">
+      </p>
+      <p align='center'>
+        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkThree.png">
+      </p>
+    </details>
+   
 </details>
