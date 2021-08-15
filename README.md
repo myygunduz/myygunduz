@@ -56,6 +56,6 @@
     <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/gifs/blenderWorkOne.gif">
   </p>
   <p align='center'>
-    <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkTwo.png">
+    <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkOne.png">
   </p>
 </details>
