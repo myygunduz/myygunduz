@@ -48,70 +48,8 @@
  <p align=center>   <a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=myygunduz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e"></a>
 </p>
 
-
-<details align='center'>
-  <summary>Some of My Blender Works</summary>
-  <p></p>
-  <details>
-    <summary>Gifs</summary>
-      <p align='center'>
-        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/gifs/blenderWorkOne.gif">
-      </p>
-  </details>
-  <details>
-    <summary>Images</summary>
-      <p align='center'>
-        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkOne.png">
-      </p>
-      <p align='center'>
-        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkTwo.png">
-      </p>
-      <p align='center'>
-        <img src="https://github.com/myygunduz/myygunduz/blob/main/assets/blenderWorks/images/blenderWorkThree.png">
-      </p>
-    </details>
-   
-</details>
 <hr>
-
-<h3 align='center'> Share This Github Profile </h3>
-
-<table align='center'>
-	<tr>
-		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Take%20a%20look%20at%20myygunduz&u=https://github.com/myygunduz&_rdc=1&_rdr">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/myygunduz&app_id=291494419107518&redirect_uri=https://github.com/myygunduz">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://twitter.com/intent/tweet?text=Take%20a%20look%20at%20myygunduz&url=https://github.com/myygunduz">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://web.whatsapp.com/send?text=Take%20a%20look%20at%20myygunduz https://github.com/myygunduz">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://t.me/share/url?url=https://github.com/myygunduz&text=Take%20a%20look%20at%20myygunduz">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Take%20a%20look%20at%20myygunduz&url=https://github.com/myygunduz">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.reddit.com/submit?title=Take%20a%20look%20at%20myygunduz&url=https://github.com/myygunduz">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
-			</a>
-		</td>
-	</tr>
-</table>
+<p align=center>
+<a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/pin?username=myygunduz&repo=My-Blender-Works&show_owner=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e">
+</a>
+</p>
