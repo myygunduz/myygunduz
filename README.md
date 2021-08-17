@@ -50,6 +50,6 @@
 
 <hr>
 <p align=center>
-<a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/pin?username=myygunduz&repo=My-Blender-Works&show_owner=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e">
+<a href="https://github.com/myygunduz/My-Blender-Works"><img align=center src="https://github-readme-stats.vercel.app/api/pin?username=myygunduz&repo=My-Blender-Works&show_owner=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e">
 </a>
 </p>
