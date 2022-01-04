@@ -1,7 +1,7 @@
 [![Social banner for myygunduz](https://github.com/myygunduz/myygunduz/blob/main/assets/ReadMe.gif)](https://myygyazilim.com)
 <hr>
 
-<h1 align='center'> Hi! :wave: My Name is Mücahit Gündüz</h1>
+<h1 align='center'> Hi! :wave: I am Mücahit Gündüz</h1>
 
 
 <h2 align='left'>Contact Me</h2>
