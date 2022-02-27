@@ -18,6 +18,9 @@
   <a href='https://www.python.org/' ><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
   <a href='https://doc.qt.io/qtforpython/' ><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/> </a> 
   <a href='https://www.blender.org/' ><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> </a> 
+  <a href='https://developer.mozilla.org/en-US/docs/Web/HTML' ><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
+  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' ><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
+  
 </p>
 
 <h2 align='right'>Programs I Use </h2>
