@@ -39,9 +39,6 @@
   <a href="https://github.com/myygunduz">
     <img src="https://komarev.com/ghpvc/?username=myygunduz&style=flat-square&color=fe422e&logo=github&label=Profile+Views">
   </a>
-  <a href="https://github.com/myygunduz?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/myygunduz?style=flat-square&color=fe422e&logo=github">
-  </a>
 </p>
 
 
